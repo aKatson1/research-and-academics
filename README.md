@@ -13,3 +13,5 @@ Python (NumPy, SymPy), Maple, LaTeX, Jupyter Notebook
 
 **Purpose**
 To deepen understanding of the mathematics driving modern machine learning and prepare for research in AI engineering.
+
+**_Note:_** This repository is under active development; additional notes and project materials will be added over time.
